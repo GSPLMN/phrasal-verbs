@@ -5,7 +5,7 @@ stand-up,alzarsi in piedi,Stand up please,Alzati per favore,wrong word order,ord
 turn-on,accendere,Turn on the light,Accendi la luce,using open instead of on,usare open invece di on
 turn-off,spegnere,Turn off the TV,Spegni la TV,confusing on/off,confondere on/off
 look-for,cercare,I’m looking for my keys,Sto cercando le chiavi,confusing with look at,confondere con look at
-looka-fter,prendersi cura,I look after the kids,Mi prendo cura dei bambini,confusing with look for,confondere con look for
+look-after,prendersi cura,I look after the kids,Mi prendo cura dei bambini,confusing with look for,confondere con look for
 find-out,scoprire,I found out the truth,Ho scoperto la verità,using find only,usare solo find
 give-up,arrendersi / smettere,Don’t give up,Non arrenderti,using stop instead of give up,usare stop
 go-on,continuare,Go on please,Continua per favore,confusing with continue,confondere con continue
@@ -14,8 +14,8 @@ go-out,uscire,Let’s go out tonight,Usciamo stasera,missing preposition,dimenti
 come-in,entrare,Come in please,Entra pure,wrong tense,tempo errato
 take-off,togliere / decollare,The plane took off,L’aereo è decollato,confusing meanings,confondere i significati
 put-on,indossare,Put on your jacket,Indossa la giacca,confusing with wear,confondere con wear
-take-off clothes,togliersi vestiti,Take off your shoes,Togliti le scarpe,missing off,dimenticare off
-run-out of,finire (scorte),We ran out of milk,Abbiamo finito il latte,missing of,dimenticare of
+take-off-clothes,togliersi vestiti,Take off your shoes,Togliti le scarpe,missing off,dimenticare off
+run-out-of,finire (scorte),We ran out of milk,Abbiamo finito il latte,missing of,dimenticare of
 check-out,controllare / lasciare hotel,Check out at 11,Fai il check-out alle 11,confusing meanings,confondere significati
 check-in,registrarsi,Check in at the desk,Fai il check-in al banco,confusing in/out,confondere in/out
 pick-up,raccogliere / prendere,Pick up the phone,Rispondi al telefono,wrong object position,posizione errata oggetto
@@ -29,6 +29,7 @@ look-out,attenzione,Look out!,Attento!,missing out,dimenticare out
 turn-up,arrivare / aumentare,He didn’t turn up,Non si è presentato,confusing meanings,confondere significati
 turn-down,rifiutare / abbassare,Turn down the offer,Rifiuta l’offerta,confusing with turn up,confondere con turn up
 wake-up,svegliarsi,I woke up late,Mi sono svegliato tardi,confusing with get up,confondere con get up
+
 
 
 
